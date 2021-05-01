@@ -1,0 +1,52 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Instructions for Making the Example Knots}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Materials}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Overview}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Running Stitch markers}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}How to Read the Patterns}{9}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Assembly and Finishing}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Rectangle Example Knot}{12}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Border Example Knot}{13}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Border Example Knot\nobreakspace {}Gallery}{15}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Knot specifications}{22}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Drawing Knots}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Algorithmic Approach to Drawing Rectangular Knots}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Practical Considerations}{28}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Special Case: Drawing Runs}{28}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Translating Knots to Crochet, Part 1}{32}{chapter.4}%
+\contentsline {section}{\nobreakspace {}\hspace {2em}No math in this part. How to turn a knot (like those made in Chapter\nobreakspace {}\ref *{sec:making}) into a crochet pattern.}{32}{section*.43}%
+\contentsline {section}{\numberline {4.1}Starting location and direction}{32}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Standard Components}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Example: Identifying Standard Components}{33}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Example: Runs}{36}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Number Intersections}{39}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Components to Patterns}{40}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}How to do it all by hand}{40}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}How to avoid doing it all by hand}{41}{subsection.4.6.2}%
+\contentsline {subsubsection}{What to do if you know some coding}{43}{section*.68}%
+\contentsline {chapter}{\numberline {5}Translating Knots to Crochet, Part 2}{45}{chapter.5}%
+\contentsline {section}{\nobreakspace {}\hspace {2em}Math in this part. An explanation of the work behind the patterns in the Chapter\nobreakspace {}\ref *{sec:nomath}. }{45}{section*.69}%
+\contentsline {section}{\numberline {5.1}Underlying Dimensions: Gauge and Strand Width}{45}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Restrictions}{47}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Side Length}{48}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Component Geometry}{48}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Straight}{49}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Quarter Turn}{49}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Point}{51}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Twist}{52}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}Runs}{54}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}General Anatomy of a Run}{54}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Straight Middle Part}{54}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}D(irect)-Type Corner}{54}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}J-Type Corner}{55}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}L-Type Corner}{56}{subsection.5.5.5}%
+\contentsline {subsection}{\numberline {5.5.6}C-Type Corner}{57}{subsection.5.5.6}%
+\contentsline {chapter}{\numberline {6}Future Directions}{59}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Acknowledgements and Fair Use}{60}{chapter.7}%
+\contentsline {chapter}{\numberline {A}Stitch Counts}{61}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Stitch counts for Standard Components}{61}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Stitch counts for Runs}{64}{section.A.2}%
+\contentsline {chapter}{\numberline {B}Python}{67}{appendix.B}%
+\contentsline {section}{\nobreakspace {}\hspace {2em}Python code for generating crochet instructions from a knot. Default values are provided, so understanding the math in Chapter\nobreakspace {}\ref *{sec:math} is not necessary to use this code.}{67}{section*.114}%
+\contentsline {chapter}{List of Figures}{67}{lstnumber.B.2.11}%
+\contentsline {chapter}{List of Tables}{69}{lstnumber.B.2.11}%
