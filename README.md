@@ -1,5 +1,5 @@
 # KnotworkCrochet
-## A general method for knotwork crochet
+## A general method for crocheted knotwork
 
 *  The file AGeneralMethod.pdf gives a description of a general method for makeing crochet patterns for rectlinear Celtic-style knots. 
 *  The notebook PatternGeneratorPublic.ipynb does the grunt work of turning a knot into human-readable crochet instructions.
